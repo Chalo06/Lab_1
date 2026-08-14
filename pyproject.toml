@@ -1,0 +1,15 @@
+[project]
+name = "lab1-git"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "typer>=0.27.1",
+]
+
+[project.scripts]
+lab1-git = "lab1_git:main"
+
+[build-system]
+requires = ["uv_build>=0.12.4,<0.13.0"]
+build-backend = "uv_build"
