@@ -124,6 +124,12 @@ Resultado:
 ```text
 [[0.47619047619047616, 0.047619047619047616, -0.14285714285714285], [-0.19047619047619047, 0.38095238095238093, -0.14285714285714285], [0.047619047619047616, -0.09523809523809523, 0.2857142857142857]]
 ```
+## Uso de IA
+En este laboratorio la IA se utilizo para comprobación de conceptos, orientación desarrollo de pruebas e implementación de partes para eficiencia.
+Los links adjuntos muestran la utilización de la IA.
+1. https://chatgpt.com/share/6a7f9ee4-bef0-83e8-aded-e7625400a572
+2. https://chatgpt.com/share/6a7fa342-8458-83e8-8613-baacbec4e4bd
+3. https://chatgpt.com/share/6a7fddb0-d378-83e8-beb9-72c9a126e015
 
 ## Integrantes
 
