@@ -26,7 +26,7 @@ Las matrices se representan como arreglos bidimensionales de números de punto f
 
 ## Diagrama del diseño
 
-![Diagrama de diseño de la calculadora de matrices](examples/tests.json)
+![Diagrama de diseño de la calculadora de matrices](examples/test.json)
 
 ## Instalación
 
